@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="libraryTable">
+    <library name="byte-buddy-1.8.15">
+      <CLASSES>
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/agent" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/agent/builder" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/asm" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/build" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/description" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/description/annotation" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/description/enumeration" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/description/field" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/description/method" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/description/modifier" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/description/type" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/dynamic" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/dynamic/loading" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/dynamic/scaffold" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/implementation" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/implementation/attribute" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/implementation/auxiliary" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/implementation/bind" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/implementation/bytecode" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/jar" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/jar/asm" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/jar/asm/commons" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/jar/asm/signature" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/matcher" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/pool" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/utility" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/utility/privilege" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/net/bytebuddy/utility/visitor" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/org" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/org/apache" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/org/apache/commons" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/org/apache/commons/exec" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/org/apache/commons/exec/environment" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/org/apache/commons/exec/launcher" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/commons-exec-1.3.jar!/org/apache/commons/exec/util" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/guava-25.0-jre.jar!/" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/guava-25.0-jre.jar!/com" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/cache" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/cache2" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/connection" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/http" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/http1" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/http2" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/io" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/platform" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/publicsuffix" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/tls" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/okhttp3/internal/ws" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okio-1.14.0.jar!/" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/libs/okio-1.14.0.jar!/okio" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/chrome" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/edge" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/firefox" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/html5" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/ie" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/interactions" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/internal" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/io" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/json" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/logging" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/mobile" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/net" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/opera" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/os" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/remote" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/safari" />
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59.jar!/org/openqa/selenium/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://C:/Program Files/Java/selenium-java-3.141.59/client-combined-3.141.59-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
